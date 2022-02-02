@@ -1,0 +1,12 @@
+{
+    "name": "wall-of-consent",
+    "version": "0.0.1",
+    "license": "Apache-2.0",
+    "author": {
+        "name": "Robert Glaser"
+    },
+    "main": "index.js",
+    "devDependencies": {
+
+    }
+}
