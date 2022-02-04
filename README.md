@@ -1,4 +1,4 @@
-# Wall-Of-Consent
+# Wall of Consent
 
 [![npm version](https://badge.fury.io/js/wall-of-consent.svg)](https://badge.fury.io/js/wall-of-consent)
 
