@@ -4,7 +4,7 @@
 
 Ask user for consent before embedding scripts from third parties.
 
-This package contains the custom element `<wall-of-consent>` which expects the following structure:
+This package contains the custom element `<wall-of-consent />`. In order to work, it expects the following markup structure:
 
 ```html
 <wall-of-consent>
@@ -17,7 +17,7 @@ This package contains the custom element `<wall-of-consent>` which expects the f
 
 ### Usage
 
-Just install this npm and import the code into your JavaScript:
+Install this npm package and import the code into your JavaScript:
 
 ```
 npm install wall-of-consent --save-dev
